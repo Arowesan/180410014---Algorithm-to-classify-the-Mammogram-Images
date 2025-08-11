@@ -1,4 +1,5 @@
 Algorithm Used
+
 Import Required Libraries
 
 Loaded Python libraries for image processing (os, cv2, numpy), visualisation (matplotlib), and machine learning (tensorflow, keras).
